@@ -1,6 +1,11 @@
 # Simple Store Website
 
 This is a basic implementation of a store website using HTML and CSS. The website includes a homepage with navigation links, featured collections, and product cards.
+
+## Live Website
+
+You can view the live website [here](https://nmcleon.github.io/store/).
+
                                        
 ## Table of Contents
 
