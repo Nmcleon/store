@@ -1,10 +1,7 @@
 # Simple Store Website
 
 This is a basic implementation of a store website using HTML and CSS. The website includes a homepage with navigation links, featured collections, and product cards.
-
-Live Website
-You can view the live website here (replace your-username with your GitHub username).
-
+                                       
 ## Table of Contents
 
 - [Overview](#overview)
@@ -44,3 +41,6 @@ git clone https://github.com/Nmcleon/store-website.git
 ## Customization
 
 Feel free to customize the website to fit your needs. You can modify the HTML content and styles in `css/main.css`. Add your own images to the `images/` folder for a personalized touch.
+                    
+                      
+  
